@@ -1,0 +1,21 @@
+*{
+	border-radius: 0 !important;
+}
+.form-upload{
+	position: relative;
+	padding: 10px;
+	background: #e2e2e2;
+}
+body {
+	background: url(../img/3.jpg)  !important;
+	background-size: 100% 100%!important;
+	background-repeat: no-repeat;
+}
+#div_1{
+	position: relative !important;
+}
+#div_2 {
+	position: absolute ;
+	left: -2px ;
+	top: 190px ;
+}

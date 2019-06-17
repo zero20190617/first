@@ -1,0 +1,15 @@
+body {
+    background: url(../img/3.jpg)  !important;
+    background-size: 100% 100%!important;
+    background-repeat: no-repeat;
+}
+#div1{
+    width: 432px !important;
+    height: 525px !important;
+    background-color: #fff !important;
+    overflow:auto !important;
+    margin: 100px auto !important;
+    text-align: left !important;
+    font-size: 20px !important;
+    border-radius: 20px !important;
+}
